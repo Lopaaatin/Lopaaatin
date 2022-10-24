@@ -28,11 +28,11 @@
 проект опубликован на [GitHub](https://github.com/Lopaaatin/bhj-diploma.git)
 
 
-### Документы
+# Документы
 * сертификат о прохождении курса Программист на JavaScript [здесь](https://github.com/Lopaaatin/Lopaaatin/blob/main/docs/certificate.pdf)
 * программа курса Программист на JavaScript УНТИ [здесь](https://cat.2035.university/rall/course/11205/)
  и Нетология [здесь](https://netology.ru/programs/fepdc?notactual=yes#/:~:text=%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%D1%81-,%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82,-%D0%BD%D0%B0%C2%A0JavaScript)
-### Домашние работы программы обучения
+# Домашние работы программы обучения
 * репозитории на [GitHub](https://github.com/Lopaaatin?tab=repositories)
 * пены на [CodePen](https://codepen.io/lopaaatin)
 
