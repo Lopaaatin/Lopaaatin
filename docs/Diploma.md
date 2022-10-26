@@ -1,3 +1,3 @@
-![Диплом](/diploma_1.jpg)
+![Диплом](/docs/diploma_1.jpg)
 
-![Приложение](/diploma_2.jpg)
+![Приложение](/docs/diploma_2.jpg)
