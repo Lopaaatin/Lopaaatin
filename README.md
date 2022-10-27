@@ -29,6 +29,7 @@
 
 
 # Документы
+* Резюме [здесь](https://docs.google.com/document/d/1fD7Ank1r4khlhh4kD03OCjfvAaFkMy-c1_-jE7ZJXIQ/edit?usp=sharing)
 * диплом о профессиональной переподготовке с присвоением квалификации **«Разработчик Web и мультимедийных приложений»** [здесь](https://github.com/Lopaaatin/Lopaaatin/blob/main/docs/Diploma.md)
 * сертификат о прохождении курса **«Программист на JavaScript»** [здесь](https://github.com/Lopaaatin/Lopaaatin/blob/main/docs/certificate.pdf)
 * программа курса Программист на JavaScript УНТИ [здесь](https://cat.2035.university/rall/course/11205/)
