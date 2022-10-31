@@ -17,7 +17,6 @@
 * использованы семантические теги и атрибуты
 * проект опубликован на [GitHub](https://github.com/Lopaaatin/mq-diplom2.git)
 
-
 ### Диплом курса «Программист на JavaScript»
 **Задачи:** Разработка одностраничного веб-приложения для управления финансами</br>
 **Используемые технологии:** JavaScript</br>
@@ -27,6 +26,10 @@
 * разработано взаимодействие API с пользовательским интерфейсом
 проект опубликован на [GitHub](https://github.com/Lopaaatin/bhj-diploma.git)
 
+
+# Чем занят сейчас
+* Осваиваю React и Redux [здесь](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+* Пробую запилить соцсеть-сервис для владельцев домашних животных. Покажу по запросу.
 
 # Документы
 * Резюме [здесь](https://docs.google.com/document/d/1fD7Ank1r4khlhh4kD03OCjfvAaFkMy-c1_-jE7ZJXIQ/edit?usp=sharing)
